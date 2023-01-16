@@ -7,9 +7,9 @@
 <br><br>
 
 <div id="projects" align="center" display="block">
-<a href="https://github.com/jiyorude/jiyorude.github.io" target="_blank" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=jiyorude&message=jiyorude.github.io&color=d25735&logo=github" alt="jiyorude - jiyorude.github.io"></a>
-<a href="https://github.com/jiyorude/theMachinimaVault" target="_blank" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=jiyorude&message=theMachinimaVault&color=f1afa8&logo=github" alt="jiyorude - theMachinimaVault"></a>
-<a href="https://github.com/jiyorude/simpleRPS" target="_blank" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=jiyorude&message=simpleRPS&color=ffe500&logo=github" alt="jiyorude - simpleRPS"></a>
-<a href="https://github.com/jiyorude/DOMINION" target="_blank" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=jiyorude&message=DOMINION&color=a21c11&logo=github" alt="jiyorude - DOMINION"></a>
-<a href="https://github.com/jiyorude/jsAlgorithmics" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=jiyorude&message=jsAlgorithmics&color=fff600&logo=github" alt="jiyorude - jsAlgorithmics"></a>
+<a href="https://github.com/jiyorude/jiyorude.github.io" target="_blank" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=jiyorude&message=jiyorude.github.io&color=d25735&logo=github" alt="jiyorude - jiyorude.github.io"></a><br>
+<a href="https://github.com/jiyorude/theMachinimaVault" target="_blank" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=jiyorude&message=theMachinimaVault&color=f1afa8&logo=github" alt="jiyorude - theMachinimaVault"></a><br>
+<a href="https://github.com/jiyorude/simpleRPS" target="_blank" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=jiyorude&message=simpleRPS&color=ffe500&logo=github" alt="jiyorude - simpleRPS"></a><br>
+<a href="https://github.com/jiyorude/DOMINION" target="_blank" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=jiyorude&message=DOMINION&color=a21c11&logo=github" alt="jiyorude - DOMINION"></a><br>
+<a href="https://github.com/jiyorude/jsAlgorithmics" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=jiyorude&message=jsAlgorithmics&color=fff600&logo=github" alt="jiyorude - jsAlgorithmics"></a><br>
 </div>
