@@ -5,4 +5,7 @@
 <a href="https://www.instagram.com/appovfilm"><img src="https://img.shields.io/badge/FOLLOW_ME-131313?style=for-the-badge&logo=instagram&logoColor=fafafa" alt="FOLLOW ME"></a><a href="https://www.linkedin.com/in/apixelatedpointofview"><img src="https://img.shields.io/badge/LET'S_CONNECT-131313?style=for-the-badge&logo=linkedin&logoColor=fafafa" alt="LET'S CONNECT"></a><a href="https://www.blogger.com/apixelatedpointofview"><img src="https://img.shields.io/badge/STAY_UPDATED!-131313?style=for-the-badge&logo=blogger&logoColor=fafafa" alt="STAY UPDATED!"></a><a href="https://jiyorude.github.io/"><img src="https://img.shields.io/badge/CODING_PORTFOLIO-131313?style=for-the-badge&logo=github&logoColor=fafafa" alt="CODING PORTFOLIO"></a>
 </div>
 
-<h4 align="center" width="200px" line-height="10px">I am a Experimental Filmmaker, Machinimator,<br>Post-Production Professional, Researcher, Front-End Developer</h4>
+<div id="projects" align="center" display="inline-block">
+<a href="https://github.com/jiyorude/simpleRPS" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=jiyorude&message=simpleRPS&color=ffe500&logo=github" alt="jiyorude - simpleRPS"></a><a href="https://jiyorude.github.io/simpleRPS/"><img src="https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge" alt="View site - GH Pages"></a>
+
+</div>
