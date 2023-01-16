@@ -1,7 +1,7 @@
 
-<img align="center" src=".github/appovdark.png #gh-dark-mode-only" alt="logo from a pixelated point of view">
+<img align="center" src="/.github/appovdark.png #gh-dark-mode-only" alt="logo from a pixelated point of view">
 
-<img align="center" src=".github/appovlight.png #gh-light-mode-only" alt="logo from a pixelated point of view">
+<img align="center" src="/.github/appovlight.png #gh-light-mode-only" alt="logo from a pixelated point of view">
 
 
 <div align="center" display="inline-block">
