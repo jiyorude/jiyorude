@@ -1,4 +1,3 @@
-
 ![GitHub-Mark-Light](src/appovdarknew.png#gh-dark-mode-only)![GitHub-Mark-Dark](src/appovlightnew.png#gh-light-mode-only)<br>
 
 <div id="shields" align="center" display="inline" width="300px">
@@ -36,6 +35,7 @@
 <img width="25px" src="src/photoshop.svg" alt="photoshop logo">
 <img width="25px" src="src/lrc.svg" alt="Lightroom logo">
 <img width="25px" src="src/au.svg" alt="audition logo">
+<img width="25px" src="src/pr.svg" alt="premiere logo">
 <img width="25px" src="src/ae.svg" alt="after effects logo">
 <img width="25px" src="src/cinema4d.svg" alt="cinema4d logo">
 <img width="25px" src="src/windows.svg" alt="Windows logo">
