@@ -21,13 +21,13 @@
 
 <h3 align="center">LANGUAGES AND SKILLS</h3>
 <div id="skills" align="center" display="inline" margin="10px">
-<img pointer-event="none" border="2px solid #16ad8f" width="25px" src="src/html.svg" alt="html logo">
-<img pointer-event="none"border="2px solid #16ad8f" width="25px" src="src/css.svg" alt="css logo">
-<img pointer-event="none"border="2px solid #16ad8f" width="25px" src="src/javascript.svg" alt="javascript logo">
-<img pointer-event="none"border="2px solid #16ad8f" width="25px" src="src/sass.svg" alt="sass logo">
-<img pointer-event="none"border="2px solid #16ad8f" width="25px" src="src/react.svg" alt="react logo">
-<img pointer-event="none"border="2px solid #16ad8f" width="25px" src="src/git.svg" alt="git logo">
-<img pointer-event="none"border="2px solid #16ad8f" width="25px" src="src/html.svg" alt="html logo">
-<img pointer-event="none"border="2px solid #16ad8f" width="25px" src="src/html.svg" alt="html logo">
+<img pointer-events="none" border="2px solid #16ad8f" width="25px" src="src/html.svg" alt="html logo">
+<img pointer-events="none"border="2px solid #16ad8f" width="25px" src="src/css.svg" alt="css logo">
+<img pointer-events="none"border="2px solid #16ad8f" width="25px" src="src/javascript.svg" alt="javascript logo">
+<img pointer-events="none"border="2px solid #16ad8f" width="25px" src="src/sass.svg" alt="sass logo">
+<img pointer-events="none"border="2px solid #16ad8f" width="25px" src="src/react.svg" alt="react logo">
+<img pointer-events="none"border="2px solid #16ad8f" width="25px" src="src/git.svg" alt="git logo">
+<img pointer-events="none"border="2px solid #16ad8f" width="25px" src="src/html.svg" alt="html logo">
+<img pointer-events="none"border="2px solid #16ad8f" width="25px" src="src/html.svg" alt="html logo">
 
 </div>
