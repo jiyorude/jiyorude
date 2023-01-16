@@ -1,4 +1,3 @@
-
 ![GitHub-Mark-Light](src/appovdarknew.png#gh-dark-mode-only)![GitHub-Mark-Dark](src/appovlightnew.png#gh-light-mode-only)<br>
 
 <div id="shields" align="center" display="inline" width="300px">
@@ -22,13 +21,13 @@
 
 <h3 align="center">LANGUAGES AND SKILLS</h3>
 <div id="skills" align="center" display="inline" margin="10px">
-<img border="2px solid #31233c" width="25px" src="src/html.svg" alt="html logo">
-<img border="2px solid #31233c" width="25px" src="src/css.svg" alt="css logo">
-<img border="2px solid #31233c" width="25px" src="src/javascript.svg" alt="javascript logo">
-<img border="2px solid #31233c" width="25px" src="src/sass.svg" alt="sass logo">
-<img border="2px solid #31233c" width="25px" src="src/react.svg" alt="react logo">
-<img border="2px solid #31233c" width="25px" src="src/git.svg" alt="git logo">
-<img border="2px solid #31233c" width="25px" src="src/html.svg" alt="html logo">
-<img border="2px solid #31233c" width="25px" src="src/html.svg" alt="html logo">
+<img pointer-event="none" border="2px solid #16ad8f" width="25px" src="src/html.svg" alt="html logo">
+<img pointer-event="none"border="2px solid #16ad8f" width="25px" src="src/css.svg" alt="css logo">
+<img pointer-event="none"border="2px solid #16ad8f" width="25px" src="src/javascript.svg" alt="javascript logo">
+<img pointer-event="none"border="2px solid #16ad8f" width="25px" src="src/sass.svg" alt="sass logo">
+<img pointer-event="none"border="2px solid #16ad8f" width="25px" src="src/react.svg" alt="react logo">
+<img pointer-event="none"border="2px solid #16ad8f" width="25px" src="src/git.svg" alt="git logo">
+<img pointer-event="none"border="2px solid #16ad8f" width="25px" src="src/html.svg" alt="html logo">
+<img pointer-event="none"border="2px solid #16ad8f" width="25px" src="src/html.svg" alt="html logo">
 
 </div>
