@@ -1,6 +1,6 @@
 ![GitHub-Mark-Light](src/appovdarknew.png#gh-dark-mode-only)![GitHub-Mark-Dark](src/appovlightnew.png#gh-light-mode-only)
 
-<div id="shields" align="center" display="inline-block">
+<div id="shields" align="center" display="inline" width="300px">
 
 <a href="https://www.youtube.com/@apixelatedpointofview"><img src="https://img.shields.io/badge/MACHINIMA_WORK-131313?style=for-the-badge&logo=youtube&logoColor=fafafa" alt="MACHINIMA WORK"></a>
 
