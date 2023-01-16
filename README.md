@@ -1,13 +1,19 @@
 ![GitHub-Mark-Light](src/appovdarknew.png#gh-dark-mode-only)![GitHub-Mark-Dark](src/appovlightnew.png#gh-light-mode-only)
 
-[![MY MACHINIMA WORK](<https://img.shields.io/badge/WATCH_MY_MACHINIMA_WORK-?style=for-the-badge&logo=youtube&logoColor=+[![Check+out+my+Behance!](https%3A%2F%2Fimg.shields.io%2Fbadge%2FCheck_out_my_Behance!-%3Fstyle%3Dfor-the-badge%26logo%3D%23FF0000%26logoColor%3D%23fafafa%23131313)](https%3A%2F%2Fwww.behance.net%2Fappov)#131313>)](https://www.youtube.com/@apixelatedpointofview)
+<div id="shields" align="center" display="inline-block">
 
-[![MY BEHANCE PORTFOLIO](<https://img.shields.io/badge/Check_out_my_Behance!-?style=for-the-badge&logo=behance&logoColor=+[![Check+out+my+Behance!](https%3A%2F%2Fimg.shields.io%2Fbadge%2FCheck_out_my_Behance!-%3Fstyle%3Dfor-the-badge%26logo%3D%23FF0000%26logoColor%3D%23fafafa%23131313)](https%3A%2F%2Fwww.behance.net%2Fappov)#131313>)](https://www.behance.net/appov)
+<a href="https://www.youtube.com/@apixelatedpointofview"><img src="https://img.shields.io/badge/MACHINIMA_WORK-131313?style=for-the-badge&logo=youtube&logoColor=fafafa" alt="MACHINIMA WORK"></a>
 
-[![MY VIMEO CHANNEL](https://img.shields.io/badge/MY_VIMEO_CHANNEL-?style=for-the-badge&logo=Vimeo&logoColor=%23fafafa#131313)](https://www.vimeo.com/apixelatedpointofview)
+<a href="https://www.behance.net/APPOV"><img src="https://img.shields.io/badge/BEHANCE_PORTFOLIO-131313?style=for-the-badge&logo=behance&logoColor=fafafa" alt="BEHANCE PORTFOLIO"></a>
 
-[![BUY ME A COFFEE](https://img.shields.io/badge/BUY_ME_A_COFFEE-?style=for-the-badge&logo=buy+me+a+coffee&logoColor=%23fafafa#131313)](https://www.buymeacoffee.com/appovfilm)
+<a href="https://www.vimeo.com/apixelatedpointofview"><img src="https://img.shields.io/badge/VIMEO_CHANNEL-131313?style=for-the-badge&logo=vimeo&logoColor=fafafa" alt="VIMEO CHANNEL"></a>
 
-[![LET'S CONNECT!](https://img.shields.io/badge/LET'S_CONNECT!-?style=for-the-badge&logo=linkedin&logoColor=%23fafafa#131313)](https://www.linkedin.com/in/apixelatedpointofview)
+<a href="https://www.buymeacoffee.com/appovfilm"><img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-131313?style=for-the-badge&logo=buy+me+a+coffee&logoColor=fafafa" alt="BUY ME A COFFEE"></a>
 
-[![CHECK OUT MY BLOG](https://img.shields.io/badge/CHECK_OUT_MY_BLOG-?style=for-the-badge&logo=blogger&logoColor=%23fafafa#131313)](https://www.apixelatedpointofview.blogspot.com)
+<a href="https://www.instagram.com/appovfilm"><img src="https://img.shields.io/badge/FOLLOW_ME-131313?style=for-the-badge&logo=instagram&logoColor=fafafa" alt="FOLLOW ME"></a>
+
+<a href="https://www.linkedin.com/in/apixelatedpointofview"><img src="https://img.shields.io/badge/LET'S_CONNECT-131313?style=for-the-badge&logo=linkedin&logoColor=fafafa" alt="LET'S CONNECT"></a>
+
+<a href="https://www.blogger.com/apixelatedpointofview"><img src="https://img.shields.io/badge/STAY_UPDATED!-131313?style=for-the-badge&logo=blogger&logoColor=fafafa" alt="STAY UPDATED!"></a>
+
+</div>
