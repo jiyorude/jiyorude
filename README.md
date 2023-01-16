@@ -1,6 +1,6 @@
 ![GitHub-Mark-Light](src/appovdarknew.png#gh-dark-mode-only)![GitHub-Mark-Dark](src/appovlightnew.png#gh-light-mode-only)
 
-<h4 align="center" width="200px" line-height="3px">Experimental Filmmaker, Machinimator,<Br> 
+<h4 align="center" width="200px" line-height="10px">Experimental Filmmaker, Machinimator,<Br> 
 Post-Production Professional, Researcher, Front-End Developer</h4>
 
 <div id="shields" align="center" display="inline" width="300px">
