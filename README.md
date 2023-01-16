@@ -1,3 +1,4 @@
+
 ![GitHub-Mark-Light](src/appovdarknew.png#gh-dark-mode-only)![GitHub-Mark-Dark](src/appovlightnew.png#gh-light-mode-only)<br>
 
 <div id="shields" align="center" display="inline" width="300px">
@@ -21,13 +22,35 @@
 
 <h3 align="center">LANGUAGES AND SKILLS</h3>
 <div id="skills" align="center" display="inline" margin="10px">
-<img pointer-events="none" border="2px solid #16ad8f" width="25px" src="src/html.svg" alt="html logo">
-<img pointer-events="none"border="2px solid #16ad8f" width="25px" src="src/css.svg" alt="css logo">
-<img pointer-events="none"border="2px solid #16ad8f" width="25px" src="src/javascript.svg" alt="javascript logo">
-<img pointer-events="none"border="2px solid #16ad8f" width="25px" src="src/sass.svg" alt="sass logo">
-<img pointer-events="none"border="2px solid #16ad8f" width="25px" src="src/react.svg" alt="react logo">
-<img pointer-events="none"border="2px solid #16ad8f" width="25px" src="src/git.svg" alt="git logo">
-<img pointer-events="none"border="2px solid #16ad8f" width="25px" src="src/html.svg" alt="html logo">
-<img pointer-events="none"border="2px solid #16ad8f" width="25px" src="src/html.svg" alt="html logo">
+<img width="25px" src="src/html.svg" alt="html logo">
+<img width="25px" src="src/css.svg" alt="css logo">
+<img width="25px" src="src/javascript.svg" alt="javascript logo">
+<img width="25px" src="src/sass.svg" alt="sass logo">
+<img width="25px" src="src/react.svg" alt="react logo">
+<img width="25px" src="src/git.svg" alt="git logo">
+<img width="25px" src="src/craftcms.svg" alt="craft cms logo">
+<img width="25px" src="src/node.svg" alt="node JS logo"><br>
+<img width="25px" src="src/wordpress.svg" alt="wordpress logo"><br>
+<img width="25px" src="src/indesign.svg" alt="indesign logo">
+<img width="25px" src="src/ai.svg" alt="illustrator logo">
+<img width="25px" src="src/photoshop.svg" alt="photoshop logo">
+<img width="25px" src="src/lrc.svg" alt="Lightroom logo">
+<img width="25px" src="src/au.svg" alt="audition logo">
+<img width="25px" src="src/ae.svg" alt="after effects logo">
+<img width="25px" src="src/cinema4d.svg" alt="cinema4d logo">
+<img width="25px" src="src/windows.svg" alt="Windows logo">
+<img width="25px" src="src/mcos.svg" alt="MAC OS logo">
+<img width="25px" src="src/vcs.svg" alt="visual studio code logo">
+</div><br>
 
+<h3 align="center">FOR THE FUTURE</h3>
+<div id="futureSkills" align="center" display="inline" margin="10px">
+<img width="25px" src="src/figma.svg" alt="figma logo">
+<img width="25px" src="src/mongodb.svg" alt="mongo db logo">
+<img width="25px" src="src/kotlin.svg" alt="kotlin logo">
+<img width="25px" src="src/python.svg" alt="python logo">
+<img width="25px" src="src/php.svg" alt="php logo">
+<img width="25px" src="src/C.svg" alt="C logo">
+<img width="25px" src="src/c++.svg" alt="C plus plus logo">
+<img width="25px" src="src/c#.svg" alt="C Sharp logo">
 </div>
