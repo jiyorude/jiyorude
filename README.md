@@ -45,7 +45,6 @@
 
 <h3 align="center">FOR THE FUTURE</h3>
 <div id="futureSkills" align="center" display="inline" margin="10px">
-<img width="25px" src="src/figma.svg" alt="figma logo">
 <img width="25px" src="src/mongodb.svg" alt="mongo db logo">
 <img width="25px" src="src/typescript.svg" alt="typescript logo">
 <img width="25px" src="src/kotlin.svg" alt="kotlin logo">
@@ -54,4 +53,6 @@
 <img width="25px" src="src/C.svg" alt="C logo">
 <img width="25px" src="src/c++.svg" alt="C plus plus logo">
 <img width="25px" src="src/csharp.svg" alt="C Sharp logo">
+<img width="25px" src="src/unity.svg" alt="unity logo">
+<img width="25px" src="src/unreal.svg" alt="unreal logo">
 </div>
