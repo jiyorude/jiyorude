@@ -47,6 +47,7 @@
 <div id="futureSkills" align="center" display="inline" margin="10px">
 <img width="25px" src="src/figma.svg" alt="figma logo">
 <img width="25px" src="src/mongodb.svg" alt="mongo db logo">
+<img width="25px" src="src/typescript.svg" alt="typescript logo">
 <img width="25px" src="src/kotlin.svg" alt="kotlin logo">
 <img width="25px" src="src/python.svg" alt="python logo">
 <img width="25px" src="src/php.svg" alt="php logo">
