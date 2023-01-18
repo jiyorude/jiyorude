@@ -27,7 +27,6 @@
 <img width="25px" src="src/sass.svg" alt="sass logo">
 <img width="25px" src="src/react.svg" alt="react logo">
 <img width="25px" src="src/git.svg" alt="git logo">
-<img width="25px" src="src/craftcms.svg" alt="craft cms logo">
 <img width="25px" src="src/node.svg" alt="node JS logo">
 <img width="25px" src="src/wordpress.svg" alt="wordpress logo"><br>
 <img width="25px" src="src/indesign.svg" alt="indesign logo">
@@ -53,6 +52,7 @@
 <img width="25px" src="src/C.svg" alt="C logo">
 <img width="25px" src="src/c++.svg" alt="C plus plus logo">
 <img width="25px" src="src/csharp.svg" alt="C Sharp logo">
+<img width="25px" src="src/craftcms.svg" alt="craft cms logo">
 <img width="25px" src="src/unity.svg" alt="unity logo">
 <img width="25px" src="src/unreal.svg" alt="unreal logo">
 </div>
