@@ -27,9 +27,9 @@
 <img width="25px" src="src/sass.svg" alt="sass logo">
 <img width="25px" src="src/react.svg" alt="react logo">
 <img width="25px" src="src/git.svg" alt="git logo">
-<img width="25px" src="src/wordpress.svg" alt="wordpress logo"><br>
+<img width="25px" src="src/wordpress.svg" alt="wordpress logo">
 <img width="25px" src="src/indesign.svg" alt="indesign logo">
-<img width="25px" src="src/ai.svg" alt="illustrator logo">
+<img width="25px" src="src/ai.svg" alt="illustrator logo"><br>
 <img width="25px" src="src/photoshop.svg" alt="photoshop logo">
 <img width="25px" src="src/lrc.svg" alt="Lightroom logo">
 <img width="25px" src="src/au.svg" alt="audition logo">
