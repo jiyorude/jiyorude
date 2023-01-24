@@ -27,7 +27,6 @@
 <img width="25px" src="src/sass.svg" alt="sass logo">
 <img width="25px" src="src/react.svg" alt="react logo">
 <img width="25px" src="src/git.svg" alt="git logo">
-<img width="25px" src="src/node.svg" alt="node JS logo">
 <img width="25px" src="src/wordpress.svg" alt="wordpress logo"><br>
 <img width="25px" src="src/indesign.svg" alt="indesign logo">
 <img width="25px" src="src/ai.svg" alt="illustrator logo">
@@ -47,6 +46,7 @@
 <img width="25px" src="src/mongodb.svg" alt="mongo db logo">
 <img width="25px" src="src/typescript.svg" alt="typescript logo">
 <img width="25px" src="src/kotlin.svg" alt="kotlin logo">
+<img width="25px" src="src/node.svg" alt="node JS logo">
 <img width="25px" src="src/python.svg" alt="python logo">
 <img width="25px" src="src/php.svg" alt="php logo">
 <img width="25px" src="src/C.svg" alt="C logo">
