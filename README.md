@@ -21,7 +21,7 @@
 <a href="https://github.com/jiyorude/jsAlgorithmics" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=jsAlgorithmics&color=fff600&logo=github" alt="jiyorude - jsAlgorithmics"></a>
 </div><br>
 
-<h3 align="center">LANGUAGES AND SKILLS</h3>
+<h3 align="center">LANGUAGES/FRAMEWORKS</h3>
 <div id="skills" align="center" display="inline" margin="10px">
 <img width="25px" src="src/html.svg" alt="html logo">
 <img width="25px" src="src/css.svg" alt="css logo">
@@ -30,17 +30,7 @@
 <img width="25px" src="src/react.svg" alt="react logo">
 <img width="25px" src="src/git.svg" alt="git logo">
 <img width="25px" src="src/wordpress.svg" alt="wordpress logo">
-<img width="25px" src="src/indesign.svg" alt="indesign logo">
-<img width="25px" src="src/ai.svg" alt="illustrator logo"><br>
-<img width="25px" src="src/photoshop.svg" alt="photoshop logo">
-<img width="25px" src="src/lrc.svg" alt="Lightroom logo">
-<img width="25px" src="src/au.svg" alt="audition logo">
-<img width="25px" src="src/pr.svg" alt="premiere logo">
-<img width="25px" src="src/ae.svg" alt="after effects logo">
-<img width="25px" src="src/cinema4d.svg" alt="cinema4d logo">
-<img width="25px" src="src/windows.svg" alt="Windows logo">
-<img width="25px" src="src/mcos.svg" alt="MAC OS logo">
-<img width="25px" src="src/vcs.svg" alt="visual studio code logo">
+<img width="25px" src="src/bootstrap.svg" alt="bootstrap logo">
 </div><br>
 
 <h3 align="center">FOR THE FUTURE</h3>
@@ -55,6 +45,4 @@
 <img width="25px" src="src/c++.svg" alt="C plus plus logo">
 <img width="25px" src="src/csharp.svg" alt="C Sharp logo">
 <img width="25px" src="src/craftcms.svg" alt="craft cms logo">
-<img width="25px" src="src/unity.svg" alt="unity logo">
-<img width="25px" src="src/unreal.svg" alt="unreal logo">
 </div>
