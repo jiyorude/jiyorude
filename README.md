@@ -8,16 +8,16 @@
 
 <h3 align="center">CURRENT PROJECTS</h3>
 <div id="projects" align="center" display="block" margin="10px">
-<a href="https://github.com/jiyorude/quoteMachine" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=quoteMachine&color=035ea3&logo=github" alt="jiyorude - quoteMachine"></a>
 <a href="https://github.com/jiyorude/jiyorude.github.io" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=jiyorude.github.io&color=d25735&logo=github" alt="jiyorude - jiyorude.github.io"></a>
 <a href="https://github.com/jiyorude/theMachinimaVault"title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=theMachinimaVault&color=f1afa8&logo=github" alt="jiyorude - theMachinimaVault"></a>
 </div><br>
 
 <h3 align="center">FINISHED PROJECTS</h3>
 <div id="finished-projects" align="center" display="block" margin="10px">
+<a href="https://github.com/jiyorude/quoteMachine" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=quoteMachine&color=035ea3&logo=github" alt="jiyorude - quoteMachine"></a>
 <a href="https://github.com/jiyorude/DOMINION" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=DOMINION&color=a21c11&logo=github" alt="jiyorude - DOMINION"></a>
 <a href="https://github.com/jiyorude/react-ColorPicker" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=react-ColorPicker&color=61dafb&logo=github" alt="jiyorude - react-ColorPicker"></a>
-<a href="https://github.com/jiyorude/simpleRPS" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=simpleRPS&color=ffe500&logo=github" alt="jiyorude - simpleRPS"></a>
+<a href="https://github.com/jiyorude/simpleRPS" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=simpleRPS&color=ffe500&logo=github" alt="jiyorude - simpleRPS"></a><br>
 <a href="https://github.com/jiyorude/jsAlgorithmics" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=jsAlgorithmics&color=fff600&logo=github" alt="jiyorude - jsAlgorithmics"></a>
 </div><br>
 
