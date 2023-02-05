@@ -8,7 +8,7 @@
 
 <h3 align="center">CURRENT PROJECTS</h3>
 <div id="current-projects" align="center" display="block" margin="10px">
-<a href="https://github.com/jiyorude/rcDrumMachine" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=rcDrumMachine&color=01A807c&logo=github" alt="jiyorude - rcDrumMachine"></a>
+<a href="https://github.com/jiyorude/rcDrumMachine" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=rcDrumMachine&color=00ff2ac&logo=github" alt="jiyorude - rcDrumMachine"></a>
 <a href="https://github.com/jiyorude/jsCalc" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=jsCalc&color=31233c&logo=github" alt="jiyorude - jsCalc"></a>
 <div id="projects" align="center" display="block" margin="10px">
 <a href="https://github.com/jiyorude/jiyorude.github.io" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=jiyorude.github.io&color=d25735&logo=github" alt="jiyorude - jiyorude.github.io"></a>
