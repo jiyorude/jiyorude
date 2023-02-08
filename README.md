@@ -8,8 +8,6 @@
 
 <h3 align="center">CURRENT PROJECTS</h3>
 <div id="current-projects" align="center" display="block" margin="10px">
-<a href="https://github.com/jiyorude/PomoReact" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=PomoReact&color=FF6347&logo=github" alt="jiyorude - PomoReact"></a>
-<a href="https://github.com/jiyorude/jsCalc" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=jsCalc&color=31233c&logo=github" alt="jiyorude - jsCalc"></a>
 <a href="https://github.com/jiyorude/jiyorude.github.io" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=jiyorude.github.io&color=d25735&logo=github" alt="jiyorude - jiyorude.github.io"></a>
 <a href="https://github.com/jiyorude/theMachinimaVault"title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=theMachinimaVault&color=f1afa8&logo=github" alt="jiyorude - theMachinimaVault"></a>
 </div><br>
