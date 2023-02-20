@@ -14,13 +14,14 @@
 
 <h3 align="center">FINISHED PROJECTS</h3>
 <div id="finished-projects" align="center" display="block" margin="10px">
+<a href="https://github.com/jiyorude/mealStation" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=mealStation&color=00de25&logo=github" alt="jiyorude - mealStation"></a>
 <a href="https://github.com/jiyorude/telexReact" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=telexReact&color=0023ff&logo=github" alt="jiyorude - telexReact"></a>
 <a href="https://github.com/jiyorude/rcDrumMachine" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=rcDrumMachine&color=00ff2ac&logo=github" alt="jiyorude - rcDrumMachine"></a>
-<a href="https://github.com/jiyorude/ghmPreviewer" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=ghmPreviewer&color=f2e9e2&logo=github" alt="jiyorude - ghmPreviewer"></a>
-<a href="https://github.com/jiyorude/quoteMachine" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=quoteMachine&color=035ea3&logo=github" alt="jiyorude - quoteMachine"></a><br>
+<a href="https://github.com/jiyorude/ghmPreviewer" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=ghmPreviewer&color=f2e9e2&logo=github" alt="jiyorude - ghmPreviewer"></a><br>
+<a href="https://github.com/jiyorude/quoteMachine" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=quoteMachine&color=035ea3&logo=github" alt="jiyorude - quoteMachine"></a>
 <a href="https://github.com/jiyorude/DOMINION" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=DOMINION&color=a21c11&logo=github" alt="jiyorude - DOMINION"></a>
 <a href="https://github.com/jiyorude/react-ColorPicker" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=react-ColorPicker&color=61dafb&logo=github" alt="jiyorude - react-ColorPicker"></a>
-<a href="https://github.com/jiyorude/simpleRPS" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=simpleRPS&color=ffe500&logo=github" alt="jiyorude - simpleRPS"></a>
+<a href="https://github.com/jiyorude/simpleRPS" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=simpleRPS&color=ffe500&logo=github" alt="jiyorude - simpleRPS"></a><br>
 <a href="https://github.com/jiyorude/jsAlgorithmics" title="Go to GitHub repo" target="_blank"><img src="https://img.shields.io/static/v1?label=jiyorude&message=jsAlgorithmics&color=fff600&logo=github" alt="jiyorude - jsAlgorithmics"></a>
 </div><br>
 
