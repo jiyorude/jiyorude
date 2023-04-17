@@ -11,6 +11,7 @@
 <img width="25px" src="src/javascript.svg" alt="javascript logo">
 <img width="25px" src="src/sass.svg" alt="sass logo">
 <img width="25px" src="src/react.svg" alt="react logo">
+<img width="25px" src="src/C.svg" alt="C logo">
 <img width="25px" src="src/git.svg" alt="git logo">
 <img width="25px" src="src/node.svg" alt="node.js logo">
 <img width="25px" src="src/bootstrap.svg" alt="bootstrap logo">
