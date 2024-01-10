@@ -1,10 +1,7 @@
 <div align="center">
-    
-    ![APPOV Logo LightMode](https://drive.google.com/file/d/1xB95jyHjS7HVUM4unmP7KE_5Xr673poa/view?usp=drive_link#gh-light-mode-only)
-    
+    ![APPOV Logo LightMode](./.github/img/appovdarknew.png#gh-light-mode-only)
 
-    ![APPOV Logo DarkMode](https://drive.google.com/file/d/1-4YBE_iA_A0ZljWTyMaQlC9mTZQcyXLc/view?usp=drive_link#gh-dark-mode-only)
-
+    ![APPOV Logo DarkMode](./.github/img/appovlightnew.png#gh-dark-mode-only)
 </div>
 
 <br>
