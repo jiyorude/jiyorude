@@ -3,11 +3,11 @@
 ![APPOV Logo LightMode](./img/appovlightnew.png#gh-light-mode-only)
 ![APPOV Logo DarkMode](./img/appovdarknew.png#gh-dark-mode-only)
 
-<br>
-<p align="center">
+
+<h6 align="center">
 Front-End Developer, Software Developer, Machinima Artist <br>
 Experimental Filmmaker, Video Post-Production Professional
-</p>
+</h6>
 
 <br>
 
