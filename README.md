@@ -1,7 +1,9 @@
 <div align="center">
-    ![APPOV Logo LightMode](./.github/img/appovdarknew.png#gh-light-mode-only)
+    
+    ![APPOV Logo LightMode](./img/appovdarknew.png#gh-light-mode-only)
 
-    ![APPOV Logo DarkMode](./.github/img/appovlightnew.png#gh-dark-mode-only)
+    ![APPOV Logo DarkMode](./img/appovlightnew.png#gh-dark-mode-only)
+
 </div>
 
 <br>
