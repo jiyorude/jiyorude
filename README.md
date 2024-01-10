@@ -1,7 +1,7 @@
 <br>
 
-![APPOV Logo LightMode](./img/appovdarknew.png#gh-light-mode-only)
-![APPOV Logo DarkMode](./img/appovlightnew.png#gh-dark-mode-only)
+![APPOV Logo LightMode](./img/appovlightnew.png#gh-light-mode-only)
+![APPOV Logo DarkMode](./img/appovdarknew.png#gh-dark-mode-only)
 
 <br>
 <p align="center">
