@@ -5,7 +5,7 @@
 
 
 <h5 align="center">
-Machinima Artist, Front-End Developer, Software Developer
+Machinima Artist & Software Developer
 </h5>
 
 <br/>
